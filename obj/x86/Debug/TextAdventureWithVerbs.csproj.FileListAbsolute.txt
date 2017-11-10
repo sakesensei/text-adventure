@@ -1,0 +1,6 @@
+C:\Users\pedro\Documents\Projects\TextAdventure\TextAdventureWithVerbs\bin\Debug\NotZork.exe
+C:\Users\pedro\Documents\Projects\TextAdventure\TextAdventureWithVerbs\bin\Debug\NotZork.pdb
+C:\Users\pedro\Documents\Projects\TextAdventure\TextAdventureWithVerbs\obj\x86\Debug\TextAdventureWithVerbs.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Projects\TextAdventure\TextAdventureWithVerbs\obj\x86\Debug\TextAdventureWithVerbs.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Documents\Projects\TextAdventure\TextAdventureWithVerbs\obj\x86\Debug\NotZork.exe
+C:\Users\pedro\Documents\Projects\TextAdventure\TextAdventureWithVerbs\obj\x86\Debug\NotZork.pdb
